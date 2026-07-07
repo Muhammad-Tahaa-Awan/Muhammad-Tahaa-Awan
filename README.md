@@ -190,16 +190,20 @@ Taught AI and Computer Science to high school students for a year. Explaining re
 | Recognition | Details |
 |---|---|
 | Founder, CodeCraft Official | Solo-built digital services brand shipping real client work |
-| Socian | Full Flutter + Firebase social app, 15+ screens, solo build |
-| Research | XAI in software requirements engineering (IEEE-formatted paper) |
-| _Add more_ | _Your entry here_ |
+| Socian | Flutter + Firebase social app, 15+ screens, built solo |
+| Research | Paper on explainable AI in software requirements engineering, IEEE format |
+| Instructor | Taught AI and Computer Science for a year at St. Peter's, Taxila |
 
 </div>
 
 ---
 
+<!--
+  Certifications & Coding Profiles chhupaye hue hain kyunki abhi data nahi.
+  Jab AWS/Oracle/NPTEL/Cisco certs ya LeetCode/GfG/HackerRank/CodeChef handles ready hon,
+  neeche wala block uncomment kar de aur badge links bhar de.
+
 <!-- ========================= CERTIFICATIONS ========================= -->
-<!-- Placeholder badges — apne asli certs se replace kar. Ye sirf structure hai. -->
 ## Certifications
 
 **AWS**
@@ -218,22 +222,14 @@ Taught AI and Computer Science to high school students for a year. Explaining re
 
 ![Cisco Cert](https://img.shields.io/badge/Cisco-Your%20Cert%20Here-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
 
----
-
-<!-- ========================= CODING PROFILES ========================= -->
-<!-- Handles daal ke links live kar de -->
 ## Coding Profiles
-
-<div align="center">
 
 <a href="#"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 <a href="#"><img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
 <a href="#"><img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" /></a>
 <a href="#"><img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
 
-</div>
-
----
+-->
 
 <!-- ========================= GITHUB ANALYTICS ========================= -->
 ## GitHub Analytics
